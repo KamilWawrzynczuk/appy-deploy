@@ -1,0 +1,14 @@
+.container {
+  margin: 50px auto;
+  padding: 0;
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+}
+
+h1 {
+  color: rgb(22, 39, 33);
+  font-size: 2rem;
+  text-transform: capitalize;
+  font-weight: bold;
+}/*# sourceMappingURL=main.css.map */
